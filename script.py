@@ -14,3 +14,5 @@ print("""Endring 5 etter endring 4
       """)
 
 print(series1 * 3)
+print(series1 * 5)
+print(series1 * 7)
