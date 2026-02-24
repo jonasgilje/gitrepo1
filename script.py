@@ -7,4 +7,8 @@ print(series1)
 print(series2)
 
 print("Endring 3")
+
 print("Endring 4")
+print("""Endring 5 etter endring 4
+      Dette vil bli en konflikt
+      """)
