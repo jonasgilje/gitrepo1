@@ -12,3 +12,5 @@ print("Endring 4")
 print("""Endring 5 etter endring 4
       Dette vil bli en konflikt
       """)
+
+print(series1 * 3)
